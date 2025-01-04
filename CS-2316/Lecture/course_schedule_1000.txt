@@ -1,0 +1,17 @@
+
+07-OCT-20 16:45:54                                Georgia Inst.  of Technology                                            PAGE 1
+202102                                            Departmental Schedule of Class                                          WSRDSOC
+
+                                                  _______________________________
+                                                  Spring 2021 Schedule of Classes
+
+COURSE NBR     MOD CRN   TITLE                     CR      DAYS  TIME         INSTRUCTOR(S)  MAX ENRL ST CAMP ROOM  BUILDING
+AND SECTION    LPA                                 HR
+
+________________
+COMPUTER SCIENCE
+
+CS   1100  A1  P   27695 Freshman Leap Seminar     1       M     1100-1150am  Whitlow        200    0 A       152   Clough Commons
+                         Course restricted: Only CM CS majors.
+                         Freshmen Only See cc.gatech.edu/regdates
+CS   1100  A3  P   29255 Freshman Leap Seminar     1       F     1100-1150am  Whitlow        200  

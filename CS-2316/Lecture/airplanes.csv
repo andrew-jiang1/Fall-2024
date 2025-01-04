@@ -1,0 +1,338 @@
+﻿ICAO Code,Manufacturer,Model,Engine Class,Number of Engines,Min Approach Speed,MTOW,MALW,Weight Class,Parking,Class,Registration Count
+A124,ANTONOV,Antonov AN-124 Ruslan,Jet,4,151,892871,727525,Heavy,57915.6,Fixed-wing,55
+A19N,AIRBUS,Airbus A319 Neo,Jet,2,130,166449,137789,Medium,14790,Fixed-wing,0
+A20N,AIRBUS,Airbus A320 Neo,Jet,2,137,174165,148591,Medium,16358.3,Fixed-wing,147
+A21N,AIRBUS,Airbus A321 Neo,Jet,2,136,209439,174606,Medium,19253,Fixed-wing,106
+A306,AIRBUS,Airbus A300 B4-600,Jet,2,137,363760,304230,Heavy,28666.7,Fixed-wing,29
+A30B,AIRBUS,Airbus A300-B2,Jet,2,137,363760,299829,Heavy,28352.9,Fixed-wing,3
+A310,AIRBUS,Airbus A310,Jet,2,139,317465,273372,Heavy,24361,Fixed-wing,26
+A318,AIRBUS,Airbus A318,Jet,2,121,149914,126766,Medium,13185,Fixed-wing,7
+A319,AIRBUS,Airbus A319,Jet,2,126,168653,134482,Medium,14140.5,Fixed-wing,413
+A320,AIRBUS,Airbus A320,Jet,2,136,171961,145505,Medium,16354.4,Fixed-wing,698
+A321,AIRBUS,Airbus A321,Jet,2,142,200621,171520,Medium,19256.3,Fixed-wing,491
+A332,AIRBUS,Airbus A330-200,Jet,2,136,533519,401241,Heavy,41268.8,Fixed-wing,77
+A333,AIRBUS,Airbus A330-300,Jet,2,137,533519,412264,Heavy,44473.5,Fixed-wing,43
+A337,AIRBUS,Airbus A330-700 - Beluga XL,Jet,2,137,500449,412260,Heavy,44053.6,Fixed-wing,0
+A338,AIRBUS,Airbus A330-800,Jet,2,140,544542,410060,Heavy,43560,Fixed-wing,0
+A339,AIRBUS,Airbus A330-900,Jet,2,140,553400,421080,Heavy,47058,Fixed-wing,11
+A342,AIRBUS,Airbus A340-200,Jet,4,145,606271,399037,Heavy,41555.6,Fixed-wing,0
+A343,AIRBUS,Airbus A340-300,Jet,4,145,609578,423288,Heavy,44467.3,Fixed-wing,1
+A345,AIRBUS,Airbus A340-500,Jet,4,146,837756,542337,Heavy,49714.4,Fixed-wing,0
+A346,AIRBUS,Airbus A340-600,Jet,4,153,837756,584225,Heavy,55031.2,Fixed-wing,0
+A359,AIRBUS,Airbus 350-900,Jet,2,140,617295,456357,Heavy,49856.9,Fixed-wing,28
+A35K,AIRBUS,Airbus A350-1000 XWB,Jet,2,154,696661,513677,Heavy,54952.8,Fixed-wing,0
+A388,AIRBUS,Airbus A380-800,Jet,4,138,1267658,868621,Super,66179.4,Fixed-wing,0
+A400,AIRBUS,Airbus A400M Atlas,Turboprop,4,130,310852,271166,Heavy,22812.3,Fixed-wing,0
+AC50,AERO,Aero Commander 500,Piston,2,77,6000,4300,Light,2466.8,Fixed-wing,169
+AC56,AERO,Aero Commander 560,Piston,2,97,6000,4300,Light,2468.5,Fixed-wing,24
+AC68,AERO,Aero Commander 680FP,Piston,2,97,8500,8500,Light,2386,Fixed-wing,38
+AC6L,AERO,Aero Commander 680FL,Piston,2,98,9000,9000,Light,2595.8,Fixed-wing,16
+AC90,GULFSTREAM AEROSPACE-ROCKWELL,Gulfstream 690 Commander 690,Turboprop,2,97,10325,9675,Light,3064.6,Fixed-wing,179
+AC95,GULFSTREAM AEROSPACE-ROCKWELL,Gulfstream Jetprop Commander 1000,Turboprop,2,100,10325,9675,Light,2979.6,Fixed-wing,0
+AN12,ANTONOV,Antonov AN-12,Turboprop,4,127,134482,127868,Medium,15717.7,Fixed-wing,0
+AN72,ANTONOV,Antonov AN-74-100/200,Jet,2,100,76060,72753,Medium,11130.1,Fixed-wing,0
+B18T,BEECH,Beech 18 (Turbo),Turboprop,2,87,9900,9500,Light,2758,Fixed-wing,3
+B190,BEECH,Beech 1900/C-12J,Turboprop,2,121,17120,16000,Medium,4261.6,Fixed-wing,143
+B37M,BOEING,Boeing 737 MAX 7,Jet,2,145,177000,145600,Medium,15553.3,Fixed-wing,7
+B38M,BOEING,Boeing 737 MAX 8,Jet,2,145,181200,152800,Medium,17214.7,Fixed-wing,148
+B39M,BOEING,Boeing 737 MAX 9,Jet,2,150,194700,163900,Medium,18313.7,Fixed-wing,53
+B703,BOEING,Boeing 707-300,Jet,4,128,333600,215000,Heavy,24603.9,Fixed-wing,9
+B712,BOEING,Boeing 717-200,Jet,2,139,118000,100000,Medium,13330,Fixed-wing,122
+B721,BOEING,Boeing 727-100 (C-22),Jet,2,124,160000,140000,Medium,16304.1,Fixed-wing,1
+B722,BOEING,Boeing 727-200,Jet,2,133,184800,150000,Medium,18663.7,Fixed-wing,41
+B732,BOEING,Boeing 737-200/VC96,Jet,2,129,115500,103000,Medium,10832.2,Fixed-wing,17
+B733,BOEING,Boeing 737-300,Jet,2,135,139500,115800,Medium,12002.3,Fixed-wing,70
+B734,BOEING,Boeing 737-400,Jet,2,139,150000,123700,Medium,13049.8,Fixed-wing,55
+B735,BOEING,Boeing 737-500,Jet,2,128,136000,110000,Medium,11182.1,Fixed-wing,22
+B736,BOEING,Boeing 737-600,Jet,2,125,144500,121500,Medium,13177.4,Fixed-wing,6
+B737,BOEING,Boeing 737-700,Jet,2,130,154500,145600,Medium,14137.2,Fixed-wing,633
+B738,BOEING,Boeing 737-800,Jet,2,144,174200,146275,Medium,16487,Fixed-wing,971
+B739,BOEING,Boeing 737-900,Jet,2,149,187700,71400,Medium,17549.4,Fixed-wing,296
+B741,BOEING,Boeing 747-100,Jet,4,144,750000,585000,Heavy,48709.5,Fixed-wing,5
+B742,BOEING,Boeing 747-200,Jet,4,150,833000,630000,Heavy,48708.8,Fixed-wing,13
+B743,BOEING,Boeing 747-300,Jet,4,142,833000,574000,Heavy,48709.5,Fixed-wing,0
+B744,BOEING,Boeing 747-400,Jet,4,157,910000,630000,Heavy,48713.8,Fixed-wing,125
+B748,BOEING,Boeing 747-8,Jet,4,159,987000,688000,Heavy,59815.3,Fixed-wing,41
+B752,BOEING,Boeing 757-200,Jet,2,137,255500,198000,Medium,21601.7,Fixed-wing,474
+B753,BOEING,Boeing 757-300,Jet,2,143,270000,224000,Medium,24752.1,Fixed-wing,37
+B762,BOEING,Boeing 767-200,Jet,2,135,315000,260000,Heavy,27265.3,Fixed-wing,65
+B763,BOEING,Boeing 767-300,Jet,2,140,412000,320000,Heavy,30766.3,Fixed-wing,462
+B764,BOEING,Boeing 767-400,Jet,2,150,450000,350000,Heavy,37207.5,Fixed-wing,37
+B772,BOEING,Boeing 777-200,Jet,2,140,656000,470000,Heavy,44939.7,Fixed-wing,169
+B773,BOEING,Boeing 777-300,Jet,2,149,660000,524000,Heavy,44939.7,Fixed-wing,6
+B778,BOEING,Boeing 777-8 ,Jet,2,152,775000,587000,Heavy,57423.6,Fixed-wing,0
+B779,BOEING,Boeing 777-9,Jet,2,154,775000,587000,Heavy,63018.7,Fixed-wing,5
+B77L,BOEING,Boeing 777-200LRF/LR,Jet,2,140,766106,575000,Heavy,47551.6,Fixed-wing,12
+B77W,BOEING,Boeing 777-300ER,Jet,2,149,775000,554000,Heavy,55052.3,Fixed-wing,51
+B788,BOEING,Boeing 787-8 BBJ/Dreamliner,Jet,2,144,502500,380000,Heavy,39602,Fixed-wing,69
+B789,BOEING,Boeing 787-9 Dreamliner,Jet,2,144,560000,425000,Heavy,43747,Fixed-wing,68
+B78X,BOEING,Boeing 787-10 Dreamliner,Jet,2,149,560000,445000,Heavy,47488.3,Fixed-wing,16
+BCS1,AIRBUS-BOMBARDIER,Airbus A220-100,Jet,2,130,139100,119490,Medium,14978.3,Fixed-wing,45
+BCS3,AIRBUS-BOMBARDIER,Airbus A220-300,Jet,2,135,156307,133600,Medium,16511.5,Fixed-wing,42
+BE10,BEECH,Beech King Air 100,Turboprop,2,111,11800,11210,Light,2511.6,Fixed-wing,105
+BE18,BEECH,Beech 18,Piston,2,87,9700,9400,Light,2401.6,Fixed-wing,186
+BE19,BEECH,Beech B19 Musketeer,Piston,1,65,2150,1999,Light,1314,Fixed-wing,265
+BE20,BEECH,Beech 200 Super King,Turboprop,2,107,12500,12500,Light/Medium,3144.4,Fixed-wing,764
+BE23,BEECH,Beech 23 Sundowner,Piston,1,70,2450,2450,Light,1314,Fixed-wing,467
+BE24,BEECH,Beech 24 Sierra,Piston,1,78,2750,2750,Light,1314,Fixed-wing,177
+BE33,BEECH,Beech Bonanza 33,Piston,1,69,3400,3400,Light,1377.6,Fixed-wing,1997
+BE35,BEECH,Beech Bonanza 35,Piston,1,72,3400,3400,Light,1372.7,Fixed-wing,5071
+BE36,BEECH,Beech Bonanza 36,Piston,1,77,3650,3650,Light,1413.8,Fixed-wing,2533
+BE40,RAYTHEON-BEECH-HAWKER,Raytheon/Beech Beechjet 400/T-1 Jayhawk,Jet,2,114,16100,15700,Medium,2857.8,Fixed-wing,399
+BE55,BEECH,Beech Baron 55,Piston,2,95,5100,5100,Light,1578.5,Fixed-wing,1561
+BE58,BEECH,Beech 58 Baron,Piston,2,95,5500,5400,Light,1666.2,Fixed-wing,1224
+BE60,BEECH,Beech 60 Duke,Piston,2,98,6775,6775,Light,1912.5,Fixed-wing,266
+BE65,BEECH,Beech 65 Queen Air,Piston,2,92,7700,7700,Light,2262.9,Fixed-wing,37
+BE70,BEECH,Beech 70 Queen Air,Piston,2,92,8200,8200,Light,2440.1,Fixed-wing,5
+BE76,BEECH,Beech 76 Duchess,Piston,2,76,3900,3900,Light,1632,Fixed-wing,157
+BE77,BEECH,Beech 77 Skipper,Piston,1,63,1675,1675,Light,1160,Fixed-wing,121
+BE80,BEECH,Beech BE-80 Queen Air,Piston,2,92,8000,8000,Light,2442.2,Fixed-wing,23
+BE99,BEECH,Beech Airliner 99,Turboprop,2,107,11300,11300,Light,2773.6,Fixed-wing,115
+BE9L,BEECH,Beech King Air 90,Turboprop,2,100,10485,9600,Light,2442.2,Fixed-wing,858
+BE9T,BEECH,Beech F90 King Air,Turboprop,2,108,10950,10950,Light,2612.3,Fixed-wing,123
+BL17,BELLANCA,Bellanca Viking,Piston,1,79,3325,3325,Light,1384,Fixed-wing,635
+BLCF,BOEING,Boeing 747-400LCF Dreamlifter,Jet,4,155,803001,652000,Heavy,53564.6,Fixed-wing,4
+BT36,BEECH,Beech 36 Bonanza,Piston,1,73,3850,3850,Light,1553.5,Fixed-wing,2817
+C120,CESSNA,Cessna 120,Piston,1,52,1500,1500,Light,1148.2,Fixed-wing,657
+C130,LOCKHEED,Lockheed 130 Hercules,Turboprop,4,117,155000,130000,Medium,14652.2,Fixed-wing,15
+C140,CESSNA,Cessna 140,Piston,1,52,1500,1500,Light,1148.2,Fixed-wing,1837
+C150,CESSNA,Cessna 150,Piston,1,55,1600,1600,Light,1248.2,Fixed-wing,8194
+C152,CESSNA,Cessna 152,Piston,1,56,1675,1675,Light,1255.4,Fixed-wing,1742
+C160,TRANSALL,Transall C-160,Turboprop,2,125,112436,103615,Medium,15718.9,Fixed-wing,0
+C162,CESSNA,Cessna 162 Skycatcher,Piston,1,51,1320,1320,Light,1112,Fixed-wing,180
+C17,BOEING,Boeing Globemaster 3,Jet,4,115,585000,446920,Heavy,32184.2,Fixed-wing,222
+C170,CESSNA,Cessna 170,Piston,1,59,2200,2200,Light,1378.2,Fixed-wing,2059
+C172,CESSNA,Cessna Skyhawk 172/Cutlass,Piston,1,62,2550,2450,Light,1483,Fixed-wing,20154
+C175,CESSNA,Cessna 175,Piston,1,56,2450,2450,Light,1385.1,Fixed-wing,897
+C177,CESSNA,Cessna 177 Cardinal,Piston,1,52,2500,2500,Light,1467.4,Fixed-wing,798
+C180,CESSNA,Cessna 180 Skywagon,Piston,1,64,2800,2800,Light,1403.5,Fixed-wing,2576
+C182,CESSNA,Cessna Skylane 182,Piston,1,65,3100,2950,Light,1564,Fixed-wing,12989
+C185,CESSNA,Cessna 185 Skywagon,Piston,1,64,3350,3350,Light,1403.8,Fixed-wing,1576
+C188,CESSNA,Cessna 188,Piston,1,66,3300,3300,Light,1614.7,Fixed-wing,364
+C195,CESSNA,Cessna 195,Piston,1,52,3350,3350,Light,1492.3,Fixed-wing,433
+C206,CESSNA,Cessna 206 Stationair,Piston,1,70,3600,3600,Light,1529.5,Fixed-wing,2241
+C207,CESSNA,Cessna 207 Stationair 7,Piston,1,71,3789,3600,Light ,1913,Fixed-wing,120
+C208,CESSNA,Cessna 208 Caravan 1,Turboprop,1,79,9062,7800,Light,2643.5,Fixed-wing,800
+C210,CESSNA,Cessna 210 Centurion,Piston,1,85,3800,3800,Light,1553.8,Fixed-wing,2744
+C212,CASA,CASA Aviocar,Turboprop,2,81,16976,17857,Medium,4193.4,Fixed-wing,36
+C240,CESSNA,Cessna TTx Model T240,Piston,1,78,3600,3420,Light,1392.2,Fixed-wing,68
+C25A,CESSNA,Cessna Citation CJ2,Jet,2,114,12500,11525,Light,3151.2,Fixed-wing,284
+C25B,CESSNA,Cessna Citation CJ3,Jet,2,108,13870,12750,Light,3557.2,Fixed-wing,360
+C25C,CESSNA,Cessna Citation CJ4,Jet,2,111,17110,15660,Medium,3548.6,Fixed-wing,153
+C25M,CESSNA,Cessna Citation M2,Jet,2,100,10700,9900,Light,2724.1,Fixed-wing,73
+C303,CESSNA,Cessna 303 Crusader,Piston,2,90,5150,3605,Light,1736.8,Fixed-wing,57
+C30J,LOCKHEED MARTIN,C-130J Super Hercules ; Lockheed,Turboprop,4,128,155000,130000,Medium,16798.3,Fixed-wing,121
+C310,CESSNA,Cessna 310,Piston,2,87,5500,5500,Light,1735.9,Fixed-wing,1664
+C320,CESSNA,Cessna 320 Skyknight,Piston,2,68,4990,4750,Light,1736,Fixed-wing,142
+C335,CESSNA,Cessna 335,Piston,2,92,6290,5990,Light,1890.3,Fixed-wing,30
+C340,CESSNA,Cessna 340,Piston,2,94,5990,5990,Light,2325.2,Fixed-wing,718
+C402,CESSNA,Cessna 401/402,Piston,2,83,6300,6850,Light,2243.4,Fixed-wing,253
+C404,CESSNA,Cessna 404 Titan,Piston,2,96,8400,8100,Light,2508,Fixed-wing,27
+C414,CESSNA,Cessna Chancellor 414,Piston,2,95,6750,6750,Light,2243.4,Fixed-wing,369
+C421,CESSNA,Cessna Golden Eagle 421,Piston,2,96,7450,7200,Light,2243.4,Fixed-wing,741
+C425,CESSNA,Cessna 425 Corsair,Turboprop,2,98,8600,8000,Light,2211.8,Fixed-wing,162
+C441,CESSNA,Cessna Conquest,Turboprop,2,98,9850,9360,Light,2610.7,Fixed-wing,172
+C500,CESSNA,Cessna 500/Citation I,Jet,2,107,11850,11350,Light,2769.4,Fixed-wing,83
+C501,CESSNA,Cessna 1SP,Jet,2,107,11850,11350,Light,2769.4,Fixed-wing,208
+C510,CESSNA,Cessna Citation Mustang,Jet,2,105,8645,8000,Light,2423.5,Fixed-wing,287
+C525,CESSNA,Cessna CitationJet/CJ1,Jet,2,108,10700,9900,Light,2708.3,Fixed-wing,116
+C526,CESSNA,Cessna 526 CitationJet,Jet,2,107,10700,9900,Light,2702.3,Fixed-wing,0
+C550,CESSNA,Cessna Citation II/Bravo,Jet,2,105,15100,13500,Light,3226.9,Fixed-wing,565
+C551,CESSNA,Cessna Citation II/SP,Jet,2,100,14800,12000,Light,3251.6,Fixed-wing,37
+C55B,CESSNA,Cessna Citation Bravo,Jet,2,117,14800,13500,Light,3251.6,Fixed-wing,95
+C560,CESSNA,Cessna Citation V/Ultra/Encore,Jet,2,103,16300,15200,Medium,3455,Fixed-wing,584
+C56X,CESSNA,Cessna Excel/XLS,Jet,2,116,20200,18700,Medium,3766.9,Fixed-wing,636
+C650,CESSNA,Cessna III/VI/VII,Jet,2,126,23000,17000,Medium,3841.8,Fixed-wing,214
+C680,CESSNA,Cessna Citation Sovereign,Jet,2,108,30300,27100,Medium,5007.4,Fixed-wing,296
+C68A,CESSNA,Cessna Citation Latitude,Jet,2,100,30800,27575,Medium,5536.9,Fixed-wing,194
+C700,CESSNA,Cessna Citation Longitude,Jet,2,121,39500,33500,Medium,6169.2,Fixed-wing,33
+C72R,CESSNA,Cessna 172RG Cutlass RG,Piston,1,62,2450,2450,Light,1484.4,Fixed-wing,467
+C750,CESSNA,Cessna Citation X,Jet,2,131,36100,31800,Medium,5691.5,Fixed-wing,284
+C77R,CESSNA,Cessna 177 Cardinal RG,Piston,1,65,2800,2800,Light,1467.4,Fixed-wing,798
+C82R,CESSNA,Cessna Skylane RG,Piston,1,64,3100,2950,Light,1564,Fixed-wing,719
+CH7A,AERONCA,Aeronca 7AC,Piston,1,56,1220,1220,Light,1178.9,Fixed-wing,2133
+CH7B,BELLANCA,Bellanca 7GCBC Citabria,Piston,1,56,1800,1800,Light,1178,Fixed-wing,478
+CL30,BOMBARDIER,Bombardier (Canadair) Challenger 300,Jet,2,126,38850,33750,Medium,5445,Fixed-wing,482
+CL35,BOMBARDIER,Bombardier Challenger 350,Jet,2,124,40600,34150,Medium,5807,Fixed-wing,200
+CL60,CANADAIR,Canadair Challenger 600/601/604,Jet,2,137,47600,38000,Medium,5457.3,Fixed-wing,630
+CN35,CASA,CASA CN-235,Turboprop,2,110,36376,36376,Medium,6581.7,Fixed-wing,1
+COL3,LANCAIR-CESSNA,Lancair LC-40 Columbia 300,Piston,1,78,3400,3230,Light,1390.2,Fixed-wing,76
+COL4,LANCAIR-CESSNA,Lancair LC-41 Columbia 400,Piston,1,78,3400,3230,Light,1390.2,Fixed-wing,469
+CRJ1,CANADAIR,canadair CRJ-100,Jet,2,141,47450,47000,Medium,7386.9,Fixed-wing,16
+CRJ2,CANADAIR,canadair CRJ-200,Jet,2,141,47450,44700,Medium,7302.9,Fixed-wing,511
+CRJ7,CANADAIR,canadair CRJ-700,Jet,2,135,75000,67000,Medium,9625.1,Fixed-wing,249
+CRJ9,CANADAIR,canadair CRJ-900,Jet,2,141,80500,73500,Medium,11334.2,Fixed-wing,306
+CRUZ,CZAW,CZAW SportCruiser,Piston,1,39,1320,1320,Light,1020.4,Fixed-wing,214
+CVLP,CONVAIR,Convair CV-440 Metropolitan,Piston,2,107,41790,39800,Medium,8571.6,Fixed-wing,11
+CVLT,CONVAIR-CANADAIR,"Convair CV-580/600/640, C-131H",Turboprop,2,107,58500,52000,Medium,11622.2,Fixed-wing,2
+D328,DORNIER,Dornier 328 Series,Turboprop,2,110,30843,31725,Medium,5896.5,Fixed-wing,46
+DA40,DIAMOND,Diamond Star DA40,Piston,1,77,2888,2407,Light,1537.5,Fixed-wing,820
+DA42,DIAMOND,Diamond Twin Star,Piston,2,88,3935,3748,Light,1803,Fixed-wing,203
+DC10,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) DC 10-10/30/40,Jet,3,149,580000,436000,Heavy,32711,Fixed-wing,76
+DC3,DOUGLAS,Douglas DC 3,Piston,2,97,25200,24400,Medium,7326.6,Fixed-wing,175
+DC3S,DOUGLAS,Douglas Super DC-3,Piston,2,97,25200,24400,Medium,7280,Fixed-wing,7
+DC6,DOUGLAS,Douglas DC 6,Piston,4,108,107000,88200,Medium,13464,Fixed-wing,30
+DC87,DOUGLAS,Douglas DC-8-70,Jet,4,143,335100,249990,Heavy,30530,Fixed-wing,6
+DC91,DOUGLAS,Douglas DC 9-10,Jet,2,132,90700,81700,Medium,10874.4,Fixed-wing,14
+DC93,DOUGLAS,Douglas DC 9-30,Jet,2,132,108000,99000,Medium,12840.2,Fixed-wing,12
+DC95,DOUGLAS,Douglas DC 9-50,Jet,2,135,121000,110000,Medium,14322.2,Fixed-wing,1
+DH8A,DEHAVILLAND CANADA,DeHavilland Canada DHC8-100,Turboprop,2,92,34500,33900,Medium,7410,Fixed-wing,22
+DH8B,DEHAVILLAND CANADA,DeHavilland Canada DHC8-200,Turboprop,2,92,36300,34500,Medium,7410,Fixed-wing,36
+DH8C,DEHAVILLAND CANADA,DeHavilland Canada Dash 8/DHC8-300,Turboprop,2,99,41100,42000,Medium,8925,Fixed-wing,26
+DH8D,DEHAVILLAND CANADA,DeHavilland Canada 8/DHC8-400,Turboprop,2,125,64500,61750,Medium,11641.4,Fixed-wing,56
+DHC6,DEHAVILLAND CANADA,DeHavilland Canada Twin Otter,Turboprop,2,74,12500,12300,Light,4256.3,Fixed-wing,131
+DHC7,DEHAVILLAND CANADA,DeHavilland Canada DHC-7,Turboprop,4,83,44000,42000,Medium,8806.5,Fixed-wing,8
+DV20,DIAMOND,Diamond 20 Katana,Piston,1,59,1609,1609,Light,1302.5,Fixed-wing,327
+E110,EMBRAER,Embraer EMB110 Bandeirante,Turboprop,2,92,13010,12566,Light,3333.8,Fixed-wing,14
+E120,EMBRAER,Embraer Brasilia EMB 120,Turboprop,2,113,26433,25794,Medium,5294.1,Fixed-wing,50
+E135,EMBRAER,Embraer ERJ 135/140/Legacy,Jet,2,124,44533,41226,Medium,7455.3,Fixed-wing,165
+E145,EMBRAER,Embraer ERJ-145,Jet,2,124,48502,41226,Medium,7802.3,Fixed-wing,379
+E170,EMBRAER,Embraer 170,Jet,2,124,85098,73413,Medium,9823.5,Fixed-wing,663
+E190,EMBRAER,Embraer 190,Jet,2,124,110892,94799,Medium,12912.5,Fixed-wing,126
+E195,EMBRAER,Embraer 195,Jet,2,135,115280,100972,Medium,13733.6,Fixed-wing,3
+E290,EMBRAER,Embraer 190-E2,Jet,2,125,124340,108136,Medium,14921.7,Fixed-wing,0
+E295,EMBRAER,Embraer 195-E2,Jet,2,136,135585,119049,Medium,17666.3,Fixed-wing,0
+E35L,EMBRAER,Embraer 135BJ Legacy 600,Jet,2,124,44092,40785,Medium,6924.8,Fixed-wing,62
+E45X,EMBRAER,Embraer ERJ 145 XR,Jet,2,124,53131,44092,Medium,8128.4,Fixed-wing,109
+E50P,EMBRAER,Embraer 500 Phenom 100,Jet,2,100,10582,9766,Light,2369.9,Fixed-wing,210
+E545,EMBRAER,Embraer EMB-545 Legacy 450,Jet,2,111,35724,32518,Medium,5317.3,Fixed-wing,65
+E550,EMBRAER,Legacy 500/Praetor 600,Jet,2,113,38360,34524,Medium,5584.5,Fixed-wing,77
+E55P,EMBRAER,Embraer Phenom 300,Jet,2,116,17968,16685,Medium,3502.1,Fixed-wing,450
+E75L,EMBRAER,Embraer 175 long wing,Jet,2,126,85517,74957,Medium,12398.7,Fixed-wing,509
+E75S,EMBRAER,Embraer 175 short wing,Jet,2,124,82673,74957,Medium,11347.4,Fixed-wing,76
+EA50,ECLIPSE,Eclipse 500,Jet,2,91,5950,5415,Light,1799.4,Fixed-wing,252
+ERCO,ERCO,Ercoupe 415,Piston,1,55,1260,1260,Light,1030,Fixed-wing,1048
+EVOT,LANCAIR,Lancair Evolution Turbine,Turboprop,1,79,4550,4200,Light,1645,Fixed-wing,51
+F2TH,DASSAULT,Dassault Falcon 2000,Jet,2,130,42400,39300,Medium,5237.3,Fixed-wing,443
+F406,REIMS-CESSNA,Reims-Cessna F406 Caravan II,Turboprop,2,103,9850,9361,Light,2618,Fixed-wing,4
+F900,DASSAULT,Dassault Falcon 900,Jet,3,130,49000,44500,Medium,5237,Fixed-wing,386
+FA10,DASSAULT,Dassault Falcon/Mystère 10,Jet,2,107,18740,17640,Medium,2671.4,Fixed-wing,86
+FA20,DASSAULT,Dassault Falcon/Mystère 20,Jet,2,107,28660,27320,Medium,3889.4,Fixed-wing,58
+FA50,DASSAULT,Dassault Falcon/Mystère 50,Jet,3,124,39700,35715,Medium,4727.5,Fixed-wing,241
+FA7X,DASSAULT,Dassault Falcon 7X,Jet,3,104,70000,62400,Medium,7783.7,Fixed-wing,135
+FA8X,DASSAULT,Dassault Falcon 8X,Jet,3,106,73000,62400,Medium,8200.5,Fixed-wing,0
+FDCT,FLIGHT DESIGN,Flight Design CT,Piston,1,51,1320,1320,Light,1017.3,Fixed-wing,352
+G150,GULFSTREAM AEROSPACE,Gulfstream G150,Jet,2,130,26100,21700,Medium,4049.8,Fixed-wing,25
+G164,GRUMMAN AMERICAN ,Grumman American G164,Piston,1,79,6075,6075,Light,1616.1,Fixed-wing,618
+G280,GULFSTREAM AEROSPACE,Gulfstream G280,Jet,2,125,39600,32700,Medium,5243.8,Fixed-wing,199
+GA5C,GULFSTREAM AEROSPACE,Gulfstream Aerospace Gulfstream G7-G500,Jet,2,130,79600,64350,Medium,9341,Fixed-wing,92
+GA6C,GULFSTREAM AEROSPACE,Gulfstream Aerospace Gulfstream G7-G600,Jet,2,136,94600,76800,Medium,10613.7,Fixed-wing,85
+GA7,GULFSTREAM AMERICAN - GRUMMAN AMERICAN,Gulfstream American GA7,Piston,2,82,3800,3800,Light,1576.8,Fixed-wing,42
+GALX,GULFSTREAM AEROSPACE-IAI,IAI 1126 Galaxy/Gulfstream G200,Jet,2,130,35650,30000,Medium,4578.6,Fixed-wing,131
+GC1,GLOBE,Globe GC-1 Swift,Piston,1,48,1975,1975,Light,1013.9,Fixed-wing,539
+GL5T,BOMBARDIER,Bombardier BD-700 Global 5000,Jet,2,128,92500,78600,Medium,10590.7,Fixed-wing,121
+GL7T,BOMBARDIER,Bombardier BD-700 Global 7500,Jet,2,118,106250,85799,Medium,13214.3,Fixed-wing,42
+GLEX,BOMBARDIER,Bombardier BD-700 Global Express,Jet,2,131,99500,78600,Medium,10859.3,Fixed-wing,305
+GLF2,GULFSTREAM AEROSPACE,Gulfstream II,Jet,2,125,62000,58500,Medium,6694.2,Fixed-wing,29
+GLF3,GULFSTREAM AEROSPACE,Gulfstream III,Jet,2,125,69700,58500,Medium,7736.6,Fixed-wing,74
+GLF4,GULFSTREAM AEROSPACE,Gulfstream IV/G400,Jet,2,150,73200,66000,Medium,8197.5,Fixed-wing,11
+GLF5,GULFSTREAM AEROSPACE,Gulfstream V/G500,Jet,2,145,90500,75300,Medium,10497,Fixed-wing,6
+GLF6,GULFSTREAM AEROSPACE,Gulfstream G650,Jet,2,110,99600,83500,Medium,11478.9,Fixed-wing,57
+H25A,HAWKER SIDDELEY,HS 125-1/2/3/400/600,Jet,2,125,25000,22046,Medium,3163.5,Fixed-wing,9
+H25B,BRITISH AEROSPACE - HAWKER SIDDELEY,BAe HS 125/700-800/Hawker 800,Jet,2,137,28000,23350,Medium,3447.7,Fixed-wing,482
+H25C,BRITISH AEROSPACE RAYTHEON,BAe/Raytheon HS 125-1000,Jet,2,132,31100,25000,Medium,3615.3,Fixed-wing,12
+HA4T,HAWKER,Hawker 4000,Jet,2,128,39500,33500,Medium,5321.5,Fixed-wing,47
+HAWK,BRITISH AEROSPACE,BAe T-45 Goshawk,Jet,1,139,11244,10249,Medium,1806.2,Fixed-wing,221
+HDJT,HONDA,HONDA HA-420 HondaJet,Jet,2,111,9039,9859,Light,2300.4,Fixed-wing,184
+HUSK,AVIAT,AVIAT Huskey ,Piston,1,60,2000,2000,Light,1255.8,Fixed-wing,898
+IL76,ILYUSHIN,Ilyushin IL 76,Jet,4,119,374782,336202,Heavy,27743,Fixed-wing,0
+J328,FAIRCHILD DORNIER,Fairchild Dornier 328 Jet,Jet,2,115,34524,31725,Medium,5886.4,Fixed-wing,46
+JS32,BRITISH AEROSPACE,BAe Jetstream super 31,Turboprop,2,109,15332,15609,Medium,3230.2,Fixed-wing,3
+JS41,BRITISH AEROSPACE,BAe Jetstream 41,Turboprop,2,131,24000,22300,Medium,4801.3,Fixed-wing,7
+K35R,BOEING,Boeing KC-135 Stratotanker,Jet,4,135,322500,119231,Heavy,19895,Fixed-wing,4
+KODI,QUEST,Quest Kodiak,Turboprop,1,73,7255,7255,Light,2156,Fixed-wing,170
+L29B,LOCKHEED,Lockheed Jetstar 2/731,Jet,4,97,44500,36000,Medium,4198.8,Fixed-wing,7
+L8,LUSCOMBE,Luscombe 8,Piston,1,46,1400,1400,Light,1125,Fixed-wing,1670
+LA4,LAKE,Lake LA-4,Piston,1,51,2690,2690,Light,1436.2,Amphibian,139
+LJ23,LEARJET,Bombardier Learjet 23,Jet,2,128,12500,11880,Light,2199.2,Fixed-wing,7
+LJ24,LEARJET,Bombardier Learjet 24,Jet,2,128,13000,11880,Light,2199.4,Fixed-wing,37
+LJ25,LEARJET,Bombardier Learjet 25,Jet,2,137,15000,12499,Light,2396.9,Fixed-wing,43
+LJ31,LEARJET,Bombardier Learjet 31,Jet,2,120,15500,15300,Medium,2889.1,Fixed-wing,133
+LJ35,LEARJET,Bombardier Learjet 35/36,Jet,2,128,18300,14300,Medium,2656.7,Fixed-wing,283
+LJ40,LEARJET,Learjet 40,Jet,2,123,21000,19200,Medium,3499.2,Fixed-wing,81
+LJ45,LEARJET,Bombardier Learjet 45,Jet,2,123,21500,19200,Medium,3643.5,Fixed-wing,398
+LJ55,LEARJET,Bombardier Learjet 55,Jet,2,125,19500,17000,Medium,3234.5,Fixed-wing,87
+LJ60,LEARJET,Bombardier Learjet 60,Jet,2,125,22750,19500,Medium,3422.1,Fixed-wing,275
+LJ70,LEARJET,Learjet 70,Jet,2,125,21500,19200,Medium,3716.1,Fixed-wing,11
+LJ75,LEARJET,Learjet 75,Jet,2,125,21500,19200,Medium,3837.8,Fixed-wing,66
+LNC4,LANCAIR,Lancair IV,Piston,1,81,3200,3000,Light,1278,Fixed-wing,62
+M20P,MOONEY,Mooney M-20C Ranger,Piston,1,77,3374,3200,Light,1463.7,Fixed-wing,1254
+M20T,MOONEY,Mooney M20K Encore/M20M Bravo,Piston,1,77,3368,3200,Light,1465.4,Fixed-wing,1025
+M5,MAULE,Maule M-5,Piston,1,43,2300,2300,Light,1162.8,Fixed-wing,357
+MD11,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 11,Jet,3,158,602500,430000,Heavy,37394.2,Fixed-wing,132
+MD81,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 81,Jet,2,134,140000,128000,Medium,18011,Fixed-wing,1
+MD82,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 82,Jet,2,135,149500,130000,Medium,18011,Fixed-wing,33
+MD83,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 83,Jet,2,144,160000,139500,Medium,18011,Fixed-wing,89
+MD87,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 87,Jet,2,134,149500,130000,Medium,15959.2,Fixed-wing,13
+MD88,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 88,Jet,2,130,149500,130000,Medium,18011,Fixed-wing,72
+MD90,BOEING-MCDONNELL DOUGLAS,Boeing (Douglas) MD 90,Jet,2,141,156000,137000,Medium,18570.8,Fixed-wing,38
+MU2,MITSUBISHI,Mitsubishi Marquise/Solitaire,Turboprop,2,105,11574,11025,Light,2184.1,Fixed-wing,87
+MU30,MITSUBISHI,Mitsubishi Diamond/MU300 Diamond,Jet,2,118,14630,13200,Medium,2856.9,Fixed-wing,29
+NAVI,NORTH AMERICAN-RYAN,North American Navion,Piston,1,56,2850,2850,Light,1411.2,Fixed-wing,872
+P180,PIAGGIO,Piaggio P-180 Avanti,Turboprop,2,121,12050,11500,Light,2929.3,Fixed-wing,99
+P210,RILEY-CESSNA,Riley Super P210,Piston,1,75,4000,3800,Light,1620.2,Fixed-wing,458
+P28A,PIPER,Piper Cherokee,Piston,1,70,2440,2130,Light,1295.6,Fixed-wing,10740
+P28B,PIPER,Piper Turbo Dakota,Piston,1,62,3000,3000,Light,1337.9,Fixed-wing,62
+P28R,PIPER,Cherokee Arrow,Piston,1,73,2758,2900,Light,1347,Fixed-wing,2499
+P28T,PIPER,Piper 28T Arrow 4,Piston,1,73,2750,2750,Light,1347.6,Fixed-wing,439
+P3,LOCKHEED,Lockheed P-3 Orion,Turboprop,4,134,135000,103880,Medium,13273.7,Fixed-wing,100
+P32R,PIPER,Piper PA-32R Lance/ Saratoga SP,Piston,1,80,3600,3600,Light,1510.7,Fixed-wing,983
+P32T,PIPER,Piper 32T Turbo Lance 2,Piston,1,80,3600,3600,Light,1510.7,Fixed-wing,208
+P46T,PIPER,Piper Malibu Meridian,Turboprop,1,75,5092,4850,Light,1833.8,Fixed-wing,437
+P51,NORTH AMERICAN,North American Mustang,Piston,1,113,12100,12100,Light,1753.1,Fixed-wing,150
+P68,VULCAN- PARTEVANIA,Vulcan Air P68,Piston,2,73,4387,4167,Light,1793.2,Fixed-wing,3
+P750,PACIFIC AEROSPACE,Pacific Aerospace P-750 Xstol,Turboprop,1,72,7500,7125,Light,2277.6,Fixed-wing,23
+PA11,PIPER,Piper PA-11 Cub Special,Piston,1,46,1220,1220,Light,1315,Fixed-wing,431
+PA12,PIPER,Piper 12 Supercruiser,Piston,1,56,1750,1750,Light,1264.9,Fixed-wing,1234
+PA16,PIPER,Piper PA-16 Clipper,Piston,1,56,1650,1650,Light,986.4,Fixed-wing,271
+PA18,PIPER,Piper 18 Super Cub,Piston,1,48,1750,1750,Light,1245.5,Fixed-wing,2894
+PA20,PIPER,Piper PA-20 Pacer,Piston,1,55,1950,1950,Light,1002.2,Fixed-wing,330
+PA22,PIPER,Piper 22 Tri-Pacer,Piston,1,56,2000,2000,Light,1002.2,Fixed-wing,1210
+PA23,PIPER,Piper PA-23-150/160 Apache,Piston,2,85,4800,4800,Light,1538.7,Fixed-wing,247
+PA24,PIPER,Piper PA-24 Comanche,Piston,1,75,2900,2900,Light,1370.3,Fixed-wing,2417
+PA25,PIPER,Piper PA-25 Pawnee,Piston,1,69,2900,2900,Light,1376.8,Fixed-wing,468
+PA27,PIPER,Piper Aztec,Piston,2,91,5200,4940,Light,1708.6,Fixed-wing,955
+PA30,PIPER,Piper PA-30 Turbo Twin Comanche/Turbo Twin Comanche,Piston,2,76,3600,3600,Light,1413.4,Fixed-wing,80
+PA31,PIPER,Piper Navajo PA-31,Piston,2,95,6500,6500,Light,1906.7,Fixed-wing,360
+PA32,PIPER,Piper Cherokee Six,Piston,1,78,3600,3600,Light,1504.2,Fixed-wing,1666
+PA34,PIPER,Piper PA-34 Seneca,Piston,2,81,4750,4513,Light,1644.5,Fixed-wing,1010
+PA38,PIPER,Piper Tomahawk PA38,Piston,1,60,1670,1670,Light,1236.4,Fixed-wing,450
+PA44,PIPER,Piper Seminole,Piston,2,66,3800,3800,Light,1584.5,Fixed-wing,499
+PA46,PIPER,Piper Malibu,Piston,1,75,4340,3900,Light,1796.5,Fixed-wing,222
+PAT4,PIPER,Piper PA-31T3-500 T-1040,Turboprop,2,100,9000,9000,Light,2090.2,Fixed-wing,2
+PAY1,PIPER,Piper Cheyenne 1,Piston,2,92,8700,8700,Light,2089.9,Fixed-wing,95
+PAY2,PIPER,Piper Cheyenne 2,Piston,2,100,9474,9000,Light,2089.9,Fixed-wing,111
+PAY3,PIPER,Piper PA-42-720 Cheyenne 3,Turboprop,2,113,11200,10330,Light,2791.1,Fixed-wing,20
+PAY4,PIPER,Piper Cheyenne 400,Turboprop,2,109,12050,11100,Light,2791.1,Fixed-wing,25
+PC12,PILATUS,Pilatus PC-12,Turboprop,1,85,10450,9921,Light,3309.2,Fixed-wing,1151
+PC24,PILATUS,Pilatus PC-24,Jet,2,107,18300,16900,Medium,3967.7,Fixed-wing,69
+PRM1,RAYTHEON- HAWKER BEECHCRAFT,Raytheon Premier 1/390 Premier 1,Jet,2,120,12500,11600,Light,2779.5,Fixed-wing,199
+R721,BOEING,Boeing 727-100RE Super 27,Jet,3,126,169000,142500,Medium,16307.6,Fixed-wing,1
+R722,BOEING,Boeing 727-200RE Super 27,Jet,3,136,197000,154500,Medium,18667.6,Fixed-wing,41
+RJ1H,AVRO,Avro RJ-100 Avroliner,Jet,4,123,101500,88500,Medium,10285.1,Fixed-wing,1
+RJ85,AVRO,Avro RJ-85 Avroliner,Jet,4,122,97000,85000,Medium,9513.8,Fixed-wing,15
+RV12,VAN'S ,Van's RV-12,Piston,1,53,1320,1320,Light,915.8,Fixed-wing,648
+S108,STINSON,Stinson 108 Voyager,Piston,1,70,2400,2400,Light,1295.1,Fixed-wing,1412
+S22T,CIRRUS,Cirrus SR-22 Turbo,Piston,1,77,3600,3600,Light,1497.3,Fixed-wing,1561
+SB20,SAAB,Saab 2000,Turboprop,1,122,50706,48501,Medium,8623.1,Fixed-wing,11
+SBR1,NORTH AMERICAN ROCKWELL,North American Rockwell Sabre 40/60,Jet,2,126,20172,17500,Medium,2838.9,Fixed-wing,15
+SC7,SHORT,Short Skyvan SC7,Turboprop,2,91,12500,12500,Light,3467.9,Fixed-wing,32
+SF34,SAAB,Saab SF 340,Turboprop,2,124,28000,27200,Medium,5896.6,Fixed-wing,73
+SH33,SHORT,Shorts 330,Turboprop,2,96,22900,22597,Medium,5336.1,Fixed-wing,16
+SH36,SHORT,Shorts 360,Turboprop,2,104,27117,26499,Medium,6427.8,Fixed-wing,63
+SR20,CIRRUS,Cirrus SR-20,Piston,1,74,2126,2900,Light,1498.3,Fixed-wing,1024
+SR22,CIRRUS,Cirrus SR 22,Piston,1,78,2358,3400,Light,1498.3,Fixed-wing,3552
+SU95,SUKHOI,SUKHOI Superjet 100-95,Jet,2,140,101148,90390,Medium,10443.8,Fixed-wing,0
+SW3,FAIRCHILD SWEARINGEN,Fairchild Swearingen SA-226T/TB Merlin 3,Turboprop,2,105,12500,12500,Light,2657.4,Fixed-wing,56
+T210,CESSNA,Cessna T210 Turbo Centurion,Piston,1,73,3800,3800,Light,1620.2,Fixed-wing,715
+T28,NORTH AMERICAN,North American T-28 Trojan,Piston,1,62,8500,7809,Light,1903.8,Fixed-wing,212
+T34P,BEECH,Beech T-34/45 Mentor,Turboprop,1,69,5500,5300,Light,1460.3,Fixed-wing,444
+T6,NORTH AMERICAN,North American T-6 Texan,Piston,1,56,5617,5329,Light,1768,Fixed-wing,417
+TAYB,TAYLORCRAFT,Taylorcraft BC,Piston,1,50,1500,1500,Light,1242,Fixed-wing,1358
+TB20,SOCATA,Socata TB-20 Trinidad,Piston,1,75,3080,3080,Light,1298.1,Fixed-wing,194
+TBM7,SOCATA,Socata TBM-700/700A,Turboprop,1,74,6614,6250,Light,2059.9,Fixed-wing,363
+TBM8,SOCATA,Socata TBM-850,Turboprop,1,85,7394,7024,Light,2058.8,Fixed-wing,330
+TBM9,SOCATA,Socata TBM-900,Turboprop,1,85,7394,7024,Light,2094.4,Fixed-wing,127
+TEX2,RAYTHEON,Raytheon Texan 2,Turboprop,1,103,6500,6900,Light,1657.9,Fixed-wing,446
+TOBA,SOCATA,Socata TB-10 Tobago,Piston,1,65,2530,2530,Light,1301.1,Fixed-wing,51
+WW24,IAI,IAI 1124 Westwind,Jet,2,129,23500,19000,Medium,3140,Fixed-wing,99
